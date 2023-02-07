@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HWExsemple023/1.0.0": {
+        "runtime": {
+          "HWExsemple023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HWExsemple023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
